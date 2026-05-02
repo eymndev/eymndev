@@ -1,6 +1,6 @@
-<h2 align="left">Hallo! Ich bin Eymen</h2>
+<h2 align="left">Hi! My name is Eymen</h2>
 
-mehr: [Klicken](https://eymndev.github.io/)
+More: [Click](https://eymndev.github.io/)
 
 ###
 
@@ -21,6 +21,3 @@ mehr: [Klicken](https://eymndev.github.io/)
 ###
 
 <br clear="both">
-
-
-Ich möchte gehen Deustchland
